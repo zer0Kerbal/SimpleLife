@@ -11,7 +11,7 @@ Also available on CKAN. -->
 ![KSP 1.8.x](https://img.shields.io/badge/KSP%20version-1.8.x-66ccff.svg?style=flat-square) 
 ![CKAN listed](https://img.shields.io/badge/CKAN-Indexed-brightgreen.svg) ![MIT](https://img.shields.io/badge/license-MIT-success "MIT") 
 
-> ***This mod aims to provide simple craft building capability in flight mode to stock parts.*** 
+> ***This mod aims to integrate simple life support and Kerbal recruitment mechanics into the stock game.*** 
 ## Author
 adopted for curation by ***[zer0Kerbal](https://forum.kerbalspaceprogram.com/index.php?/profile/190933-zer0kerbal/)*** <br>
 from *@EricWi* from* @RealGecko* Originally created by [***MatterBeam***](http://forum.kerbalspaceprogram.com/index.php?/profile/133334-matterbeam/)
@@ -19,13 +19,15 @@ from *@EricWi* from* @RealGecko* Originally created by [***MatterBeam***](http:/
 ![SimpleConstruction](https://spacedock.info/content/matterbeam_328/SimpleConstruction/SimpleConstruction-1455675320.902058.jpg "SimpleConstruction")
 
 ## Description
-After testing out Extraplanetary Launchpads and Roverdude's MK/OKS, [MatterBeam] had the idea of creating a simple, user friendly mod that would allow you to build rockets without taking a 200MB hit to RAM or having to juggle multitudes of resource pathways. If you know how to set up a drill, ISRU and a fuel tank for an Ore to Fuel conversion, then you should know how to build rockets.
+
 
 ## Features
 - No extra parts
-- No RAM usage
-- Added functionality for the Mobile Processing Lab in the late game
-- Simple, configurable and adds levels of depth to the gameplay without a learning curve
+- Complete yet simple Life Support system
+- Extend your gameplay by using Life to recruit Kerbals on other planets! 
+- ~No RAM usage~
+- ~Added functionality for the Mobile Processing Lab in the late game~
+- ~Simple, configurable and adds levels of depth to the gameplay without a learning curve~
 
 <hr>
 
@@ -40,18 +42,19 @@ After testing out Extraplanetary Launchpads and Roverdude's MK/OKS, [MatterBeam]
 
 ### Depends
 - [Module Manager](http://forum.kerbalspaceprogram.com/index.php?/topic/50533-105-*)
+- [SimpleConstruction)](https://forum.kerbalspaceprogram.com/index.php?/topic/191424-ksp-*)
+- [Community Resource Pack](https://forum.kerbalspaceprogram.com/index.php?/topic/166314-*)
  
 ### Recomends
 - [Toolbar](https://forum.kerbalspaceprogram.com/index.php?/topic/161857-*)
 - [KerbalStats](https://forum.kerbalspaceprogram.com/index.php?/topic/89285-*)
 - [MoarKerbals](https://forum.kerbalspaceprogram.com/index.php?/topic/191525-*)
+- [Alternate Resource Panel](https://forum.kerbalspaceprogram.com/index.php?/topic/54876-*)
 
 ### Suggests
 - [SimpleLogistics](https://forum.kerbalspaceprogram.com/index.php?/topic/191045-*/)
-- [SimpleConstruction)](https://forum.kerbalspaceprogram.com/index.php?/topic/191424-ksp-*)
 - [Not So SimpleConstruction (NSSC)](http://forum.kerbalspaceprogram.com/index.php?/topic/152309-*)
 - [Biomatic](https://forum.kerbalspaceprogram.com/index.php?/topic/191426-*)
-- [Community Resource Pack](https://forum.kerbalspaceprogram.com/index.php?/topic/166314-*)
 - [Hot Beverages Irradiated](https://github.com/zer0Kerbal/HotBeverageIrradiated)
 - [KGEx (coming soon)](https://github.com/zer0Kerbal/)
 - [B9StockPatches](https://forum.kerbalspaceprogram.com/index.php?/topic/190870-*)
