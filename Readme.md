@@ -1,7 +1,7 @@
 <!-- Readme.md v1.2.0.0
 SimpleLife
 created: 17 Jul 18
-updated: 03 Feb 2020 -->
+updated: 12 Feb 2020 -->
 
 <!-- Download on SpaceDock here or Github here.
 Also available on CKAN. -->
@@ -31,42 +31,40 @@ After testing out Extraplanetary Launchpads and Roverdude's MK/OKS, [MatterBeam]
 
 #### Installation Directions 
 - Use CKAN
-or
-- Manually (assumes basic KSP mod installation knowledge):
- - Extract to your KSP folder.
- - Install related ModuleManager patches.
 
 ### Changelog Summary
 *See [ChangeLog](https://github.com/zer0Kerbal/SimpleConstruction/blob/master/Changelog.md) for full details of mod changes*
 <hr>
 ### Requires
- - [Kerbal Space Program](https://kerbalspaceprogram.com) v1.8.1, ***may*** work on earlier versions
+- [Kerbal Space Program](https://kerbalspaceprogram.com) v1.8.1, ***may*** work on earlier versions
 
 ### Depends
- - [Module Manager](http://forum.kerbalspaceprogram.com/index.php?/topic/50533-105-*)
+- [Module Manager](http://forum.kerbalspaceprogram.com/index.php?/topic/50533-105-*)
  
 ### Recomends
 - [Toolbar](https://forum.kerbalspaceprogram.com/index.php?/topic/161857-*)
 - [KerbalStats](https://forum.kerbalspaceprogram.com/index.php?/topic/89285-*)
+- [MoarKerbals](https://forum.kerbalspaceprogram.com/index.php?/topic/191525-*)
 
 ### Suggests
- - [Mining Expansion](http://forum.kerbalspaceprogram.com/index.php?/topic/130325-*)
- - [Community Resource Pack](https://forum.kerbalspaceprogram.com/index.php?/topic/166314-*)
- - [Hot Beverages Irradiated](https://github.com/zer0Kerbal/HotBeverageIrradiated)
- - [KGEx (coming soon)](https://github.com/zer0Kerbal/)
- - [B9StockPatches](https://forum.kerbalspaceprogram.com/index.php?/topic/190870-*)
- - [Kerbal Inventory System](http://forum.kerbalspaceprogram.com/index.php?/topic/149848-*)
- - [Kerbal Attachment System](http://forum.kerbalspaceprogram.com/index.php?/topic/142594-*)
- - [Not So SimpleConstruction (NSSC)](http://forum.kerbalspaceprogram.com/index.php?/topic/152309-*)
- - [Infernal Robotics - Next](https://forum.kerbalspaceprogram.com/index.php?/topic/184787-*)
+- [SimpleLogistics](https://forum.kerbalspaceprogram.com/index.php?/topic/191045-*/)
+- [SimpleConstruction)](https://forum.kerbalspaceprogram.com/index.php?/topic/191424-ksp-*)
+- [Not So SimpleConstruction (NSSC)](http://forum.kerbalspaceprogram.com/index.php?/topic/152309-*)
+- [Biomatic](https://forum.kerbalspaceprogram.com/index.php?/topic/191426-*)
+- [Community Resource Pack](https://forum.kerbalspaceprogram.com/index.php?/topic/166314-*)
+- [Hot Beverages Irradiated](https://github.com/zer0Kerbal/HotBeverageIrradiated)
+- [KGEx (coming soon)](https://github.com/zer0Kerbal/)
+- [B9StockPatches](https://forum.kerbalspaceprogram.com/index.php?/topic/190870-*)
+- [Kerbal Inventory System](http://forum.kerbalspaceprogram.com/index.php?/topic/149848-*)
+- [Kerbal Attachment System](http://forum.kerbalspaceprogram.com/index.php?/topic/142594-*)
+- [Mining Expansion](http://forum.kerbalspaceprogram.com/index.php?/topic/130325-*)
+- [Infernal Robotics - Next](https://forum.kerbalspaceprogram.com/index.php?/topic/184787-*)
 
 ### Supports
- - [Kerbal Change Log](https://forum.kerbalspaceprogram.com/index.php?/topic/179207-*)
- - [Kethane/KethanePlus](http://forum.kerbalspaceprogram.com/index.php?/topic/119480-*)
- - [Extraplanetary Launchpads - No More Production](https://github.com/theRagingIrishman/USI_EL)
+- [Kerbal Change Log](https://forum.kerbalspaceprogram.com/index.php?/topic/179207-*)
+- [Kethane/KethanePlus](http://forum.kerbalspaceprogram.com/index.php?/topic/119480-*)
 
 ### Conflicts
-- [ExtraPlanatary Launchpads](https://forum.kerbalspaceprogram.com/index.php?/topic/54284-*)
 
 ### Possible Conflicts
 - [MKS}() maybe?
@@ -76,7 +74,7 @@ or
 - ***All bundled mods are distributed under their own licenses***<br>
 - ***All art assets (textures, models, animations) are distributed under their own licenses***<br>
 
-###### v4.0.2.2 original: 11 Aug 2018 zed'K | updated: 08 Feb 2020 zed'K
+###### v4.0.2.3 original: 11 Aug 2018 zed'K | updated: 12 Feb 2020 zed'K
 
 <!--
 CC BY-NC-SA-4.0
