@@ -13,10 +13,9 @@ Also available on CKAN. -->
 
 > ***This mod aims to integrate simple life support and Kerbal recruitment mechanics into the stock game.*** 
 ## Author
-adopted for curation by ***[zer0Kerbal](https://forum.kerbalspaceprogram.com/index.php?/profile/190933-zer0kerbal/)*** <br>
-from *@EricWi* from* @RealGecko* Originally created by [***MatterBeam***](http://forum.kerbalspaceprogram.com/index.php?/profile/133334-matterbeam/)
+adopted for curation by ***[zer0Kerbal](https://forum.kerbalspaceprogram.com/index.php?/profile/190933-zer0kerbal/)*** Originally created by [***MatterBeam***](http://forum.kerbalspaceprogram.com/index.php?/profile/133334-matterbeam/)
 
-![SimpleConstruction](https://spacedock.info/content/matterbeam_328/SimpleConstruction/SimpleConstruction-1455675320.902058.jpg "SimpleConstruction")
+![SimpleConstruction](https://spacedock.info/content/matterbeam_328/SimpleLife/SimpleLife-1465774887.7852516.jpg "SimpleLife")
 
 ## Description
 
