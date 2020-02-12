@@ -7,11 +7,11 @@ updated: 12 Feb 2020 -->
 Also available on CKAN. -->
 
 # SimpleLife!
-![Mod Version](https://img.shields.io/github/v/release/zer0Kerbal/SimpleConstruction?include_prereleases) 
+![Mod Version](https://img.shields.io/github/v/release/zer0Kerbal/SimpleLife?include_prereleases) 
 ![KSP 1.8.x](https://img.shields.io/badge/KSP%20version-1.8.x-66ccff.svg?style=flat-square) 
 ![CKAN listed](https://img.shields.io/badge/CKAN-Indexed-brightgreen.svg) ![MIT](https://img.shields.io/badge/license-MIT-success "MIT") 
 
-> ***This mod aims to integrate simple life support and Kerbal recruitment mechanics into the stock game.*** 
+> ***A stock-parts-only mod that integrates a simple Life Support mechanic, and a way for you to spawn and recruit your own Kerbal population. The perfect addition to your colony! *** 
 ## Author
 adopted for curation by ***[zer0Kerbal](https://forum.kerbalspaceprogram.com/index.php?/profile/190933-zer0kerbal/)*** Originally created by [***MatterBeam***](http://forum.kerbalspaceprogram.com/index.php?/profile/133334-matterbeam/)
 
